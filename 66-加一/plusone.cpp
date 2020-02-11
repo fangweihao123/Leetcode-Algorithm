@@ -3,7 +3,7 @@
 #include<iostream>
 using namespace std;
 
-//进位的问题比较难解决 特别是位数变化的那种 9->10
+//should pay attention to the situation 9->10
 
 class Solution {
 public:

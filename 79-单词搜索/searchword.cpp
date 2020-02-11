@@ -3,7 +3,7 @@
 #include<iostream>
 using namespace std;
 
-//通过路过的地方的字符替代从而无需重新建立一个矩阵
+//the character in the path can be replaced by another symbols
 
 class Solution {
 private:

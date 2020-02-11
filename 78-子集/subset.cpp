@@ -3,7 +3,7 @@
 #include<iostream>
 using namespace std;
 
-//不包含重复元素
+//do not contain duplicate elements
 
 class Solution {
 private:

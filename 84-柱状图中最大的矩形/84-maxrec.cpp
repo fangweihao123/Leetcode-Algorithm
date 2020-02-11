@@ -4,9 +4,6 @@
 #include<limits.h>
 using namespace std;
 
-//几个连续的数之间的短板效应
-//可以先找最小值 然后再算值
-
 class Solution {
 public:
     int subMaxArea(vector<int>& heights,int l,int r){

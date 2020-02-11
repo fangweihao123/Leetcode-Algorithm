@@ -4,7 +4,7 @@
 #include<stack>
 using namespace std;
 
-//判断是否可以跳到终点
+
 enum INDEX{
     UNKNOWN,
     BAD,
